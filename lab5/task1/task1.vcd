@@ -1,0 +1,499 @@
+$date
+	Thu Apr 16 22:55:46 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Lab5_Task1_tb $end
+$var wire 1 ! F_out $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var reg 1 % G2A_in $end
+$var reg 1 & G2B_in $end
+$var reg 1 ' G_in $end
+$scope module uut $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ C $end
+$var wire 1 ! FF $end
+$var wire 1 ' G $end
+$var wire 1 % G2A $end
+$var wire 1 & G2B $end
+$var wire 1 ( s_logisimNet0 $end
+$var wire 1 ) s_logisimNet2 $end
+$var wire 1 * s_logisimNet5 $end
+$var wire 1 + s_logisimNet7 $end
+$var wire 1 , s_logisimNet8 $end
+$var wire 1 - s_logisimNet9 $end
+$var wire 1 . s_logisimNet11 $end
+$var wire 8 / s_logisimBus6 [7:0] $end
+$scope module D $end
+$var wire 1 + A $end
+$var wire 1 , B $end
+$var wire 1 ) C $end
+$var wire 1 ( G $end
+$var wire 1 - G2A $end
+$var wire 1 * G2B $end
+$var wire 8 0 Y [7:0] $end
+$var wire 1 1 s_logisimNet11 $end
+$var wire 1 2 s_logisimNet17 $end
+$var wire 1 3 s_logisimNet19 $end
+$var wire 1 4 s_logisimNet2 $end
+$var wire 1 5 s_logisimNet20 $end
+$var wire 1 6 s_logisimNet3 $end
+$var wire 1 7 s_logisimNet5 $end
+$var wire 1 8 s_logisimNet6 $end
+$var wire 1 9 s_logisimNet7 $end
+$var wire 1 : s_logisimNet8 $end
+$var wire 1 ; s_logisimNet4 $end
+$var wire 1 < s_logisimNet13 $end
+$var wire 1 = s_logisimNet12 $end
+$var wire 1 > s_logisimNet1 $end
+$var wire 1 ? s_logisimNet0 $end
+$var wire 8 @ s_logisimBus22 [7:0] $end
+$scope module GATES_1 $end
+$var wire 1 2 input1 $end
+$var wire 1 5 input2 $end
+$var wire 1 > result $end
+$var wire 1 A s_realInput1 $end
+$var wire 1 B s_realInput2 $end
+$var parameter 65 C BubblesMask $end
+$upscope $end
+$scope module GATES_10 $end
+$var wire 1 6 input2 $end
+$var wire 1 D result $end
+$var wire 1 E s_realInput1 $end
+$var wire 1 F s_realInput2 $end
+$var wire 1 G s_realInput3 $end
+$var wire 1 ; input3 $end
+$var wire 1 ? input1 $end
+$var parameter 65 H BubblesMask $end
+$upscope $end
+$scope module GATES_11 $end
+$var wire 1 6 input2 $end
+$var wire 1 I result $end
+$var wire 1 J s_realInput1 $end
+$var wire 1 K s_realInput2 $end
+$var wire 1 L s_realInput3 $end
+$var wire 1 ; input3 $end
+$var wire 1 = input1 $end
+$var parameter 65 M BubblesMask $end
+$upscope $end
+$scope module GATES_12 $end
+$var wire 1 3 input1 $end
+$var wire 1 9 input2 $end
+$var wire 1 : input3 $end
+$var wire 1 ; result $end
+$var wire 1 N s_realInput1 $end
+$var wire 1 O s_realInput2 $end
+$var wire 1 P s_realInput3 $end
+$var parameter 65 Q BubblesMask $end
+$upscope $end
+$scope module GATES_13 $end
+$var wire 1 4 input2 $end
+$var wire 1 ; input3 $end
+$var wire 1 R result $end
+$var wire 1 S s_realInput1 $end
+$var wire 1 T s_realInput2 $end
+$var wire 1 U s_realInput3 $end
+$var wire 1 = input1 $end
+$var parameter 65 V BubblesMask $end
+$upscope $end
+$scope module GATES_2 $end
+$var wire 1 7 input1 $end
+$var wire 1 5 input2 $end
+$var wire 1 < result $end
+$var wire 1 W s_realInput1 $end
+$var wire 1 X s_realInput2 $end
+$var parameter 65 Y BubblesMask $end
+$upscope $end
+$scope module GATES_3 $end
+$var wire 1 2 input1 $end
+$var wire 1 8 input2 $end
+$var wire 1 ? result $end
+$var wire 1 Z s_realInput1 $end
+$var wire 1 [ s_realInput2 $end
+$var parameter 65 \ BubblesMask $end
+$upscope $end
+$scope module GATES_4 $end
+$var wire 1 7 input1 $end
+$var wire 1 8 input2 $end
+$var wire 1 = result $end
+$var wire 1 ] s_realInput1 $end
+$var wire 1 ^ s_realInput2 $end
+$var parameter 65 _ BubblesMask $end
+$upscope $end
+$scope module GATES_5 $end
+$var wire 1 > input1 $end
+$var wire 1 4 input2 $end
+$var wire 1 ; input3 $end
+$var wire 1 ` result $end
+$var wire 1 a s_realInput1 $end
+$var wire 1 b s_realInput2 $end
+$var wire 1 c s_realInput3 $end
+$var parameter 65 d BubblesMask $end
+$upscope $end
+$scope module GATES_6 $end
+$var wire 1 < input1 $end
+$var wire 1 4 input2 $end
+$var wire 1 ; input3 $end
+$var wire 1 e result $end
+$var wire 1 f s_realInput1 $end
+$var wire 1 g s_realInput2 $end
+$var wire 1 h s_realInput3 $end
+$var parameter 65 i BubblesMask $end
+$upscope $end
+$scope module GATES_7 $end
+$var wire 1 ? input1 $end
+$var wire 1 4 input2 $end
+$var wire 1 ; input3 $end
+$var wire 1 j result $end
+$var wire 1 k s_realInput1 $end
+$var wire 1 l s_realInput2 $end
+$var wire 1 m s_realInput3 $end
+$var parameter 65 n BubblesMask $end
+$upscope $end
+$scope module GATES_8 $end
+$var wire 1 > input1 $end
+$var wire 1 6 input2 $end
+$var wire 1 ; input3 $end
+$var wire 1 o result $end
+$var wire 1 p s_realInput1 $end
+$var wire 1 q s_realInput2 $end
+$var wire 1 r s_realInput3 $end
+$var parameter 65 s BubblesMask $end
+$upscope $end
+$scope module GATES_9 $end
+$var wire 1 < input1 $end
+$var wire 1 6 input2 $end
+$var wire 1 ; input3 $end
+$var wire 1 t result $end
+$var wire 1 u s_realInput1 $end
+$var wire 1 v s_realInput2 $end
+$var wire 1 w s_realInput3 $end
+$var parameter 65 x BubblesMask $end
+$upscope $end
+$upscope $end
+$scope module GATES_1 $end
+$var wire 1 y input1 $end
+$var wire 1 z input2 $end
+$var wire 1 { input3 $end
+$var wire 1 | input4 $end
+$var wire 1 . result $end
+$var wire 1 } s_realInput1 $end
+$var wire 1 ~ s_realInput2 $end
+$var wire 1 !" s_realInput3 $end
+$var wire 1 "" s_realInput4 $end
+$var parameter 65 #" BubblesMask $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b0 #"
+b0 x
+b0 s
+b0 n
+b0 i
+b0 d
+b0 _
+b0 \
+b0 Y
+b0 V
+b0 Q
+b0 M
+b0 H
+b0 C
+$end
+#0
+$dumpvars
+1""
+1!"
+1~
+1}
+1|
+1{
+1z
+1y
+1w
+0v
+0u
+1t
+1r
+0q
+1p
+1o
+1m
+1l
+0k
+1j
+1h
+1g
+0f
+1e
+1c
+1b
+1a
+0`
+0^
+0]
+0[
+1Z
+1X
+0W
+1U
+1T
+0S
+1R
+0P
+0O
+0N
+1L
+0K
+0J
+1I
+1G
+0F
+0E
+1D
+1B
+1A
+b11111110 @
+0?
+1>
+0=
+0<
+1;
+0:
+09
+08
+07
+06
+15
+14
+03
+12
+11
+b11111110 0
+b11111110 /
+0.
+0-
+0,
+0+
+0*
+0)
+1(
+1'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#50000
+1!
+1.
+0}
+0y
+b11111101 /
+b11111101 0
+b11111101 @
+1`
+0e
+0a
+0p
+0>
+0A
+0Z
+02
+1f
+1u
+1<
+1W
+1]
+17
+1+
+1"
+#100000
+0~
+0z
+1}
+1y
+b11111011 /
+b11111011 0
+b11111011 @
+0j
+1e
+0B
+0X
+05
+1k
+1E
+1?
+1A
+1Z
+12
+0f
+0u
+0<
+1[
+1^
+18
+1,
+1#
+0W
+0]
+07
+0+
+0"
+#150000
+0!
+0.
+1~
+1z
+b11110111 /
+b11110111 0
+b11110111 @
+1j
+0R
+0k
+0E
+0?
+0A
+0Z
+02
+1S
+1J
+1=
+1W
+1]
+17
+1+
+1"
+#200000
+1!
+1.
+0!"
+0{
+b11101111 /
+b11101111 0
+b11101111 @
+0o
+1R
+1a
+1p
+1>
+0T
+0b
+0g
+0l
+04
+1B
+1X
+15
+1A
+1Z
+12
+0S
+0J
+0=
+1F
+1K
+1q
+1v
+16
+1)
+1$
+0[
+0^
+08
+0,
+0#
+0W
+0]
+07
+0+
+0"
+#250000
+0!
+0.
+1!"
+1{
+b11011111 /
+b11011111 0
+b11011111 @
+1o
+0t
+0a
+0p
+0>
+0A
+0Z
+02
+1f
+1u
+1<
+1W
+1]
+17
+1+
+1"
+#300000
+b10111111 /
+b10111111 0
+b10111111 @
+0D
+1t
+0B
+0X
+05
+1k
+1E
+1?
+1A
+1Z
+12
+0f
+0u
+0<
+1[
+1^
+18
+1,
+1#
+0W
+0]
+07
+0+
+0"
+#350000
+1!
+1.
+0""
+0|
+b1111111 /
+b1111111 0
+b1111111 @
+1D
+0I
+0k
+0E
+0?
+0A
+0Z
+02
+1S
+1J
+1=
+1W
+1]
+17
+1+
+1"
+#400000
